@@ -1,4 +1,4 @@
-# BallSim 🎯
+# BallSim 
 
 **BallSim** to prosty symulator zderzeń kul w przestrzeni 2D, stworzony w technologii Windows Forms przy użyciu języka C#.
 
@@ -6,7 +6,7 @@ Projekt umożliwia wizualizację ruchu piłek wewnątrz ograniczonego pola oraz 
 
 ---
 
-## 🧩 Funkcje
+## Funkcje
 
 - 🔁 Start/Stop symulacji
 - ➕ Dodawanie nowych piłek w losowych pozycjach
@@ -17,7 +17,7 @@ Projekt umożliwia wizualizację ruchu piłek wewnątrz ograniczonego pola oraz 
 
 ---
 
-## ⚙️ Technologie
+## Technologie
 
 - C#
 - .NET Framework / WinForms
@@ -39,7 +39,7 @@ BallSim/
 
 ---
 
-## 🚀 Uruchamianie
+## Uruchamianie
 
 1. Sklonuj repozytorium:
 
