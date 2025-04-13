@@ -28,14 +28,14 @@ Projekt umożliwia wizualizację ruchu piłek wewnątrz ograniczonego pola oraz 
 ## Struktura Folderów
 
 BallSim/
-├── Form1.cs               # Główna forma aplikacji
-├── Ball.cs                # Klasa reprezentująca piłkę
-├── Vec2D.cs               # Prosty wektor 2D
-├── BBox.cs                # Obszar symulacji
-├── SimulationBox.cs       # Klasa zarządzająca przebiegiem symulacji
-├── Naive2Algo.cs          # Algorytm zderzeń
-├── README.md              # Ten plik 🙂
-└── BallSim.csproj
+- Form1.cs               # Główna forma aplikacji
+- Ball.cs                # Klasa reprezentująca piłkę
+- Vec2D.cs               # Prosty wektor 2D
+- BBox.cs                # Obszar symulacji
+- SimulationBox.cs       # Klasa zarządzająca przebiegiem symulacji
+- Naive2Algo.cs          # Algorytm zderzeń
+- README.md              # Ten plik 🙂
+- BallSim.csproj
 
 ---
 
